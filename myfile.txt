@@ -5,3 +5,7 @@
 4. someone commit 5
 
 5. develop master's branch log
+
+6. master
+
+7. master
